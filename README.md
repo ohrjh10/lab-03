@@ -12,7 +12,12 @@ For example, changes in the server does not affect the client immediately, which
 
 Question 2: According to the definition of “resources” provided in the AWS article above, What are the resources the mail server is providing to clients?
 
+Resources are the information that different applications provide to their clients. Resources can be images, videos, text, numbers, or any type of data.
+The mail server is providing resources such as the mail entries, the mail sender, the id of corresponding mails in this lab.
+
 Question 3: What is one common REST Method not used in our mail server? How could we extend our mail server to use this method?
+
+
 
 Question 4: Why are API keys used for many RESTful APIs? What purpose do they serve?
 
