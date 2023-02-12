@@ -17,7 +17,7 @@ The mail server is providing resources such as the mail entries, the mail sender
 
 Question 3: What is one common REST Method not used in our mail server? How could we extend our mail server to use this method?
 
-
+PATCH, which is a common method used to updating resources on the server is not used. We can extend our mail server by using patch so that the mail entry are up to date.
 
 Question 4: Why are API keys used for many RESTful APIs? What purpose do they serve?
 
