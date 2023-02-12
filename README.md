@@ -7,6 +7,9 @@ Junhyung(Richard) Oh
 ## Lab Question Answers
 Question 1: Why are RESTful APIs scalable?
 
+There is a separation between the client and the server which makes it easier for the developers to scale.
+For example, changes in the server does not affect the client immediately, which gives more flexibility for the developers to edit.
+
 Question 2: According to the definition of “resources” provided in the AWS article above, What are the resources the mail server is providing to clients?
 
 Question 3: What is one common REST Method not used in our mail server? How could we extend our mail server to use this method?
