@@ -17,4 +17,6 @@ API keys are used as a form of authentication.
 Through the use of API keys, we are able to block access from unauthorized connections and therefore it is more secured as only people with access can get information
 from the RESTful APIs.
 
+Source: https://cloud.google.com/endpoints/docs/openapi/when-why-api-key#:~:text=API%20keys%20provide%20project%20authorization,-To%20decide%20which&text=By%20identifying%20the%20calling%20project,or%20enabled%20in%20the%20API.
+
 ...
